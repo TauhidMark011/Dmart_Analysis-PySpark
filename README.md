@@ -20,13 +20,13 @@ Dmart_PySpark_Project/
 ├── spark-warehouse/              # Auto-generated directory by Spark
 ├── README.md                     # Project documentation
 
-🛠️ Technologies Used
+🛠️ Technologies Used : 
 Python 3.10+
 Apache Spark (PySpark)
 VS Code / Terminal
 Git & GitHub
 
-🚀 How to Run the Project
+🚀 How to Run the Project :
 Step 1: Clone the Repository
 git clone https://github.com/TauhidMark011/Dmart_Analysis-PySpark
 cd Dmart_PySpark_Project
@@ -41,7 +41,7 @@ pip install pyspark
 Step 4: Run the Pipeline
 python main_orchestrate.py
 
-📊 Key Functionalities
+📊 Key Functionalities :
 ✔️ Data Cleaning:
 Renames inconsistent column names
 Removes null or irrelevant records (if present)
@@ -64,13 +64,13 @@ Customer Segment with Highest Total Profit:
 | Consumer  | 134119.209199997 |
 +-----------+------------------+
 
-📌 Future Enhancements
+📌 Future Enhancements : 
 ✅ Export results to CSV/Parquet for reporting
 📉 Add visualizations using matplotlib/seaborn
 🔗 Integrate with AWS S3 or HDFS for cloud-scale data ingestion
 🗃️ Load transformed data into a SQL or NoSQL data store
 
-👨‍💻 Author
+👨‍💻 Author : 
 Tauhid
 Aspiring Data Engineer | Python | Big Data | PySpark
 LinkedIn - https://www.linkedin.com/in/tauhid-alam-3839311b0/ • GitHub - https://github.com/TauhidMark011/
