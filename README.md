@@ -1,4 +1,4 @@
-📖 About the Project
+📖 About the Project :- 
 This project demonstrates how large-scale retail data can be processed efficiently using PySpark, a Python API for Apache Spark. The goal is to develop a scalable and modular pipeline that performs:
 Data Ingestion: Reading CSV files into Spark DataFrames.
 Data Cleaning & Transformation: Handling missing values, renaming columns, and formatting data for consistency.
@@ -28,7 +28,7 @@ Git & GitHub
 
 🚀 How to Run the Project
 Step 1: Clone the Repository
-git clone https://github.com/your-username/Dmart_PySpark_Project.git
+git clone https://github.com/TauhidMark011/Dmart_Analysis-PySpark
 cd Dmart_PySpark_Project
 
 Step 2: (Optional) Create Virtual Environment
