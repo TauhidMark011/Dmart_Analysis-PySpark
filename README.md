@@ -71,7 +71,7 @@ Customer Segment with Highest Total Profit:
 🗃️ Load transformed data into a SQL or NoSQL data store
 
 👨‍💻 Author : 
-Tauhid
+Tauhid - 
 Aspiring Data Engineer | Python | Big Data | PySpark
 LinkedIn - https://www.linkedin.com/in/tauhid-alam-3839311b0/ • GitHub - https://github.com/TauhidMark011/
 
