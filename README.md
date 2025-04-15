@@ -6,7 +6,7 @@ Data Analysis: Executing group-based aggregations and business-level queries to 
 Result Presentation: Displaying the analytical outputs via terminal for quick insight delivery.
 This end-to-end solution mirrors tasks often handled by Data Engineers and Big Data Analysts in modern data-driven companies.
 
-📂 Project Structure
+📂 Project Structure : 
 Dmart_PySpark_Project/
 │
 ├── scripts/
@@ -72,7 +72,7 @@ Customer Segment with Highest Total Profit:
 
 👨‍💻 Author : 
 Tauhid - 
-Aspiring Data Engineer | Python | Big Data | PySpark
+Aspiring Data Engineer | Python | Big Data | PySpark  
 LinkedIn - https://www.linkedin.com/in/tauhid-alam-3839311b0/ • GitHub - https://github.com/TauhidMark011/
 
 📄 License
