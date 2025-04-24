@@ -23,6 +23,7 @@ Dmart_PySpark_Project/
 🛠️ Technologies Used : 
 Python 3.10+
 Apache Spark (PySpark)
+SQL
 VS Code / Terminal
 Git & GitHub
 
