@@ -21,11 +21,11 @@ Dmart_PySpark_Project/
 ├── README.md                     # Project documentation
 
 🛠️ Technologies Used : 
-Python 3.10+
-Apache Spark (PySpark)
-SQL
-VS Code / Terminal
-Git & GitHub
+Python 3.10+,
+Apache Spark (PySpark),
+SQL,
+VS Code / Terminal,
+Git & GitHub.
 
 🚀 How to Run the Project :
 Step 1: Clone the Repository
